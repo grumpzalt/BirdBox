@@ -1,0 +1,82 @@
+[
+    {
+      "topic": "Travel experiences",
+      "description": "Share memorable travel stories, destinations, or travel tips."
+    },
+    {
+      "topic": "Technology trends",
+      "description": "Discuss the latest advancements in technology, gadgets, and innovations."
+    },
+    {
+      "topic": "Favorite books and authors",
+      "description": "Recommend and discuss favorite books, authors, and genres."
+    },
+    {
+      "topic": "Current events",
+      "description": "Talk about recent news, global events, or local happenings."
+    },
+    {
+      "topic": "Art and creativity",
+      "description": "Explore different forms of art, creativity, and artistic expressions."
+    },
+    {
+      "topic": "Music and entertainment",
+      "description": "Share favorite music genres, bands, movies, TV shows, or concerts."
+    },
+    {
+      "topic": "Food and culinary experiences",
+      "description": "Discuss favorite cuisines, recipes, restaurants, and culinary adventures."
+    },
+    {
+      "topic": "Sports and fitness",
+      "description": "Talk about favorite sports, athletes, fitness routines, or outdoor activities."
+    },
+    {
+      "topic": "Career and professional growth",
+      "description": "Exchange insights on career development, job trends, or entrepreneurship."
+    },
+    {
+      "topic": "Personal hobbies",
+      "description": "Share hobbies such as gardening, photography, gaming, or DIY projects."
+    },
+    {
+      "topic": "Education and learning",
+      "description": "Discuss educational experiences, learning techniques, or favorite subjects."
+    },
+    {
+      "topic": "Health and wellness",
+      "description": "Explore topics related to physical and mental health, wellness practices, or healthy living."
+    },
+    {
+      "topic": "Science and discoveries",
+      "description": "Talk about recent scientific breakthroughs, space exploration, or technological advancements."
+    },
+    {
+      "topic": "Philosophy and life questions",
+      "description": "Engage in deep conversations about existential questions, philosophical ideas, or personal beliefs."
+    },
+    {
+      "topic": "Environment and sustainability",
+      "description": "Discuss environmental issues, sustainability practices, or climate change."
+    },
+    {
+      "topic": "Family and relationships",
+      "description": "Share experiences and insights on family dynamics, relationships, or parenting."
+    },
+    {
+      "topic": "Cultural diversity",
+      "description": "Explore different cultures, traditions, customs, and cultural diversity."
+    },
+    {
+      "topic": "Fashion and style",
+      "description": "Discuss fashion trends, personal style, or iconic fashion moments."
+    },
+    {
+      "topic": "Pets and animals",
+      "description": "Share stories and experiences with pets, discuss animal welfare, or favorite animals."
+    },
+    {
+      "topic": "Travel bucket list",
+      "description": "Exchange dream travel destinations and experiences that are on your bucket list."
+    }
+  ]

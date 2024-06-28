@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mercury", "Mars", "Jupiter", "Saturn"],
+        "answer": 1
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "options": ["Elephant", "Blue whale", "Giraffe", "Hippopotamus"],
+        "answer": 1
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+        "answer": 0
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+        "answer": 1
+    },
+    {
+        "question": "What is the chemical symbol for the element oxygen?",
+        "options": ["O", "O2", "Oh", "Ox"],
+        "answer": 0
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Mark Twain"],
+        "answer": 0
+    },
+    {
+        "question": "Which country is commonly referred to as the 'Land of the Rising Sun'?",
+        "options": ["China", "South Korea", "Japan", "Vietnam"],
+        "answer": 2
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
+        "answer": 1
+    },
+    {
+        "question": "Who was the first person to step on the Moon?",
+        "options": ["Buzz Aldrin", "Yuri Gagarin", "Neil Armstrong", "John Glenn"],
+        "answer": 2
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Venus", "Earth", "Mercury", "Mars"],
+        "answer": 2
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": 3
+    },
+    {
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": 0
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "options": ["Stapes", "Femur", "Carpal", "Metatarsal"],
+        "answer": 0
+    },
+    {
+        "question": "Which country is known as the 'Pearl of Africa'?",
+        "options": ["Nigeria", "Uganda", "South Africa", "Kenya"],
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "F. Scott Fitzgerald"],
+        "answer": 0
+    },
+    {
+        "question": "What is the largest organ of the human body?",
+        "options": ["Liver", "Lungs", "Skin", "Heart"],
+        "answer": 2
+    },
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+        "answer": 1
+    },
+    {
+        "question": "What does a geiger counter measure?",
+        "options": ["Radiation", "Sound", "Electricity", "Magnetism"],
+        "answer": 0
+    },
+    {
+        "question": "What is the primary ingredient in guacamole?",
+        "options": ["Avocado", "Tomato", "Onion", "Pineapple"],
+        "answer": 0
+    },
+    {
+        "question": "Who painted the ceiling of the Sistine Chapel?",
+        "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+        "answer": 1
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "answer": 1
+    },
+    {
+        "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": 0
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctica"],
+        "answer": 3
+    },
+    {
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "options": ["Geoffrey Chaucer", "William Wordsworth", "John Milton", "William Shakespeare"],
+        "answer": 0
+    },
+    {
+        "question": "What is the largest species of bear?",
+        "options": ["Polar bear", "Brown bear", "Black bear", "Sun bear"],
+        "answer": 0
+    },
+    {
+        "question": "Which planet has the most moons in our Solar System?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": 0
+    },
+    {
+        "question": "Who is known as the 'Father of Modern Physics'?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+        "answer": 2
+    },
+    {
+        "question": "What is the national flower of Japan?",
+        "options": ["Cherry blossom", "Lotus", "Rose", "Tulip"],
+        "answer": 0
+    },
+    {
+        "question": "Which country gifted the Statue of Liberty to the United States?",
+        "options": ["France", "United Kingdom", "Germany", "Italy"],
+        "answer": 0
+    },
+    {
+        "question": "Who is the Greek god of the sea?",
+        "options": ["Hades", "Poseidon", "Zeus", "Ares"],
+        "answer": 1
+    },
+    {
+        "question": "What is the main ingredient in hummus?",
+        "options": ["Chickpeas", "Lentils", "Black beans", "Kidney beans"],
+        "answer": 0
+    },
+    {
+        "question": "Which famous physicist developed the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest planet in our Solar System?",
+        "options": ["Mercury", "Venus", "Mars", "Pluto"],
+        "answer": 0
+    },
+    {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "options": ["Norway", "Russia", "Canada", "Sweden"],
+        "answer": 0
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Mark Twain", "John Steinbeck", "F. Scott Fitzgerald"],
+        "answer": 0
+    },
+    {
+        "question": "Which chemical element has the symbol 'Fe'?",
+        "options": ["Iron", "Gold", "Silver", "Tin"],
+        "answer": 0
+    },
+    {
+        "question": "What is the largest living species of lizard?",
+        "options": ["Monitor lizard", "Komodo dragon", "Iguana", "Chameleon"],
+        "answer": 1
+    },
+    {
+        "question": "Who composed 'The Four Seasons'?",
+        "options": ["Antonio Vivaldi", "Johann Sebastian Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart"],
+        "answer": 0
+    },
+    {
+        "question": "Which is the longest bone in the human body?",
+        "options": ["Femur", "Tibia", "Radius", "Fibula"],
+        "answer": 0
+    },
+    {
+        "question": "Which ocean is Bermuda located in?",
+        "options": ["Indian Ocean", "Atlantic Ocean", "Pacific Ocean", "Arctic Ocean"],
+        "answer": 1
+    },
+    {
+        "question": "Who painted 'Starry Night'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "answer": 0
+    },
+    {
+        "question": "Which city hosted the 2016 Summer Olympics?",
+        "options": ["Rio de Janeiro", "London", "Tokyo", "Beijing"],
+        "answer": 0
+    },
+    {
+        "question": "What is the largest planet in the solar system?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": 1
+    },
+    {
+        "question": "Who is the author of the Harry Potter book series?",
+        "options": ["J.K. Rowling", "J.R.R. Tolkien", "C.S. Lewis", "Roald Dahl"],
+        "answer": 0
+    },
+    {
+        "question": "Which is the largest organ in the human body by surface area?",
+        "options": ["Liver", "Lungs", "Skin", "Heart"],
+        "answer": 2
+    },
+    {
+        "question": "Which famous scientist formulated the theory of general relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "answer": 1
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Diamond", "Quartz", "Platinum"],
+        "answer": 1
+    },
+    {
+        "question": "Who painted the famous painting 'The Starry Night'?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"],
+        "answer": 0
+    },
+    {
+        "question": "What is the largest moon in the Solar System?",
+        "options": ["Titan", "Ganymede", "Callisto", "Io"],
+        "answer": 1
+    },
+    {
+        "question": "Which instrument does a saxophonist play?",
+        "options": ["Strings", "Woodwinds", "Brass", "Percussion"],
+        "answer": 1
+    },
+    {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Jacinda Ardern"],
+        "answer": 0
+    },
+    {
+        "question": "Which chemical element has the symbol 'Na'?",
+        "options": ["Sodium", "Nickel", "Nitrogen", "Neon"],
+        "answer": 0
+    }
+]
